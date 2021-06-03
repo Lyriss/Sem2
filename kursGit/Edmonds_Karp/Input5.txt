@@ -1,0 +1,17 @@
+S A 100
+S D 90
+S B 60
+A C 30
+A D 50
+B E 70
+C I 50
+C H 40
+D H 80
+D G 60
+E F 60
+F G 40
+F T 70
+G T 150
+H T 100
+H G 100
+I T 60
