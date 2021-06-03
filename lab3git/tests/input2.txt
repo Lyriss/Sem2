@@ -1,0 +1,3 @@
+Lipetsk; Velikiy Novgorod; 40; N/A
+Moscow; Lipetsk; 40; 35
+Saint Petersburg; Moscow; 10; 20
